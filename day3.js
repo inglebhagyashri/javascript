@@ -101,6 +101,3 @@ else {
     console.log("p is greater")
 }
 
-let r = 70
-let t = 60
-if (r>t )?
